@@ -31,6 +31,6 @@
 	"播放列表": "",
 	"播放标题": ">&&</a>",
 	"播放链接": "href=\"&&\"",
-	"分类url": "https://jile20.buzz/index.php/vod/type/id/{cateId}/index_{catePg}.html[https://jile20.buzz/index.php/vod/type/id/{cateId}]",
+	"分类url": "https://jile20.buzz/index.php/vod/type/id/index.php/vod/play/id/{cateId}/sid/{cateId}/nid/{cateId}.html",
 	"分类": "国产$3#国产传媒$2#动漫$4#日本$5#欧美$6#AV解说$8#AI换脸$7#"
 }
