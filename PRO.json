@@ -42,7 +42,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/ygbh1/box/-/raw/main/H/nmys2.json"
-    },{
+    },
+    {
+                "key": "maiyoux",
+                "name": "maiyoux",
+                "type": 3,
+                "api": "./maiyoux_open.js"
+            },{
             "key": "索尼",
             "name": "🛸索尼影视",
             "type": 1,
