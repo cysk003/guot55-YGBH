@@ -42,6 +42,12 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/ygbh1/box/-/raw/main/H/nmys2.json"
+    },{
+      "key": "蜜果视界",
+      "name": "🍊蜜果",
+      "api": "csp_AppYs",
+      "type": 3,
+      "ext": "https://miguo.pro/api.php/v1.vod"
     },
     {
                 "key": "maiyoux",
