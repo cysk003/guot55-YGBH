@@ -685,7 +685,17 @@
           }
         ]
       }
-    },
+    },{
+            "key": "T4-18",
+            "name": "🔞(T4)",
+            "type": 4,
+            "api": "https://tang.serv00.net/power/sex",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": true
+        },
     {
       "key": "红袖",
       "name": "🔞红袖资源",
